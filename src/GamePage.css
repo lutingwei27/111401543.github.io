@@ -1,0 +1,68 @@
+.game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #393939;
+}
+
+.game-title {
+  font-size: 3rem;
+  color: white;
+  margin-bottom: 2rem;
+  background-color: #393939;
+}
+
+.options-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  background-color: #393939;
+}
+
+.option {
+  margin-right: 2rem;
+  color: white;
+  background-color: #393939;
+}
+
+.option label {
+  background-color: #393939; /* 设置背景颜色为黑色 */
+  color: #fff; /* 设置文字颜色为白色 */
+  padding: 0.2rem 0.5rem; /* 添加填充 */
+  border-radius: 4px; /* 添加圆角 */
+}
+
+.select,
+option select {
+  padding: 5px 9px;
+  font-size: 15px;
+  width: 90px;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  background-color: #000;
+  color: #fff;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23ffffff' d='M2 5L0 2h4z'/%3E%3C/svg%3E"); /* 自定义下拉箭头，向下的箭头图标 */
+  background-repeat: no-repeat;
+  background-position: right 0.5rem top 50%;
+  background-size: 0.65rem auto;
+}
+
+.start-button {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+  background-color: #0056b3;
+}

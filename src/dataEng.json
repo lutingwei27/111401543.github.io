@@ -1,0 +1,23 @@
+{
+  "short": [
+    "The quick brown fox jumps over the lazy dog.",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "A bird in the hand is worth two in the bush.",
+    "Actions speak louder than words.",
+    "All good things must come to an end."
+  ],
+  "medium": [
+    "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+    "Don't cry over spilled milk.",
+    "Easy come, easy go.",
+    "Every cloud has a silver lining.",
+    "Fortune favors the bold."
+  ],
+  "long": [
+    "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity...",
+    "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune...",
+    "In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep...",
+    "Call me Ishmael. Some years ago - never mind how long precisely - having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world...",
+    "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife..."
+  ]
+}
